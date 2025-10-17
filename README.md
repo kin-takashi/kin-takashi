@@ -1,12 +1,14 @@
 <!-- Neon Professional GitHub Profile for Kin Takashi -->
+<body style="margin:0; padding:0; background-color:#050b18; color:#00bfff; font-family:Consolas, monospace;">
 
-<h1 align="center">
-  ⚡ Kin Takashi ⚡
-</h1>
+  <div align="center" style="padding:60px 20px;">
 
 <p align="center">
-  <b>🚀 DevOps | ☁️ Cloud Engineer | 📊 Big Data Enthusiast</b>
+  <img src="E:\Source_Code\Profile_Github\kin-takashi\assets\head_banner.png" alt="Banner" width="100%"/>
 </p>
+<h1 style="color:#00ffff; text-shadow:0 0 20px #00ffff, 0 0 40px #0088ff;">
+<h1 align="center">Hi, I'm Kin Takashi 👋</h1>
+<h3 align="center">DevOps | Cloud Engineer | Big Data</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
